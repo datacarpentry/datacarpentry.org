@@ -1,0 +1,215 @@
+# Top menu for Carpentries & Lesson Programs
+top:
+  - name: The Carpentries
+    url: https://carpentries.org
+    weight: 10
+  - name: Data Carpentry
+    url: /
+    weight: 20
+  - name: Software Carpentry
+    url: https://software-carpentry.org
+    weight: 30
+  - name: Library Carpentry
+    url: https://librarycarpentry.org/
+    weight: 40
+# Main menu
+main:
+# Main menu: About
+- identifier: about-us
+  name: About us
+  url: "/"
+  parent: null
+  weight: 10
+- identifier: governance
+  name: Governance
+  pageRef: "/governance/"
+  parent: about-us
+  weight: 20
+- identifier: curriculum-advisors
+  name:  Curriculum Advisors
+  url: "https://carpentries.org/curriculum-advisors/"
+  parent: about-us
+  weight: 30
+# Learn Menu
+- identifier: workshops
+  name: Workshops
+  url: "#"
+  parent: null
+  weight: 20
+- identifier: workshops-upcoming
+  name: Upcoming Workshops
+  pageRef: "/workshops/workshops-upcoming/"
+  parent: workshops
+  weight: 10
+- identifier: workshops-past
+  name: Past Workshops
+  pageRef: "/workshops/workshops-past/"
+  parent: workshops
+  weight: 20
+# Lessons menu
+- identifier: lessons
+  name: Lessons
+  url: "/lessons/"
+# Main Carpentries site
+- identifier: carpentries
+  name: The Carpentries
+  url: "https://carpentries.org"
+
+footer:
+# Footer menu: Menu 1
+- identifier: about-us
+  name: About us
+  url: "/about-us/"
+  parent: null
+  weight: 10
+- identifier: link-1
+  name: Code of Conduct
+  pageRef: "https://docs.carpentries.org/topic_folders/policies/index_coc.html"
+  parent: about-us
+  weight: 20
+- identifier: link-2
+  name: Our History
+  pageRef: "/about-us/#our-history"
+  parent: about-us
+  weight: 30
+- identifier: link-3
+  name: Our Governance
+  pageRef: "/about-us/governance/"
+  parent: about-us
+  weight: 40
+# Footer menu: Menu 2
+- identifier: workshops
+  name: Workshops
+  url: "#"
+  parent: null
+  weight: 20
+- identifier: link-4
+  name: Workshops FAQ
+  pageRef: "/workshops/workshops-faq/"
+  parent: workshops
+  weight: 20
+- identifier: link-5
+  name: Request a workshop
+  pageRef: "https://amy.carpentries.org/forms/workshop"
+  parent: workshops
+  weight: 30
+- identifier: link-6
+  name: Link 3
+  pageRef: "#"
+  parent: workshops
+  weight: 40
+# Footer menu: Menu 3
+- identifier: volunteers
+  name: Volunteers
+  url: "#"
+  parent: null
+  weight: 30
+- identifier: link-7
+  name: Link 1
+  pageRef: "#"
+  parent: volunteers
+  weight: 20
+- identifier: link-8
+  name: Link 2
+  pageRef: "#"
+  parent: volunteers
+  weight: 30
+- identifier: link-9
+  name: Link 3
+  pageRef: "#"
+  parent: volunteers
+  weight: 40
+# Footer menu: Menu 4
+- identifier: membership
+  name: Membership
+  url: "#"
+  parent: null
+  weight: 40
+- identifier: link-10
+  name: Link 1
+  pageRef: "#"
+  parent: membership
+  weight: 20
+- identifier: link-11
+  name: Link 2
+  pageRef: "#"
+  parent: membership
+  weight: 30
+- identifier: link-12
+  name: Link 3
+  pageRef: "#"
+  parent: membership
+  weight: 40
+# Footer menu: Menu 5
+- identifier: resources
+  name: Resources
+  url: "#"
+  parent: null
+  weight: 50
+- identifier: link-13
+  name: Link 1
+  pageRef: "#"
+  parent: resources
+  weight: 20
+- identifier: link-14
+  name: Link 2
+  pageRef: "#"
+  parent: resources
+  weight: 30
+- identifier: link-15
+  name: Link 3
+  pageRef: "#"
+  parent: resources
+  weight: 40
+# Footer menu: Menu 6
+- identifier: connect
+  name: Connect
+  url: "#"
+  parent: null
+  weight: 60
+- identifier: link-16
+  name: Link 1
+  pageRef: "#"
+  parent: connect
+  weight: 20
+- identifier: link-17
+  name: Link 2
+  pageRef: "#"
+  parent: connect
+  weight: 30
+- identifier: link-18
+  name: Link 3
+  pageRef: "#"
+  parent: connect
+  weight: 40
+socials:
+- name: Slack
+  url: "https://swc-slack-invite.herokuapp.com/"
+  params:
+    img: "/slack-logo.svg"
+  weight: 10
+- name: Twitter
+  url: "https://twitter.com/thecarpentries"
+  params:
+    img: "/twitter-logo.svg"
+  weight: 20
+- name: Facebook
+  url: "https://www.facebook.com/carpentries"
+  params:
+    img: "/facebook-logo.svg"
+  weight: 30
+- name: Youtube
+  url: "https://www.youtube.com/thecarpentries"
+  params:
+    img: "/youtube-logo.svg"
+  weight: 40
+- name: LinkedIn
+  url: "https://www.linkedin.com/company/the-carpentries/"
+  params:
+    img: "/linkedin-logo.svg"
+  weight: 50
+- name: Github
+  url: "https://github.com/carpentries"
+  params:
+    img: "/github-logo.svg"
+  weight: 60
