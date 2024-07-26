@@ -50,6 +50,19 @@ main:
 - identifier: lessons
   name: Lessons
   url: "/lessons/"
+  parent: null
+- identifier: ecology
+  name: Ecology
+  url: "/lessons/#ecology"
+  parent: lessons
+- identifier: geospatial
+  name: Geospatial
+  url: "/lessons/#geospatial"
+  parent: lessons
+- identifier: genomics
+  name: Genomics
+  url: "/lessons/#genomics"
+  parent: lessons
 # Main Carpentries site
 - identifier: carpentries
   name: The Carpentries
