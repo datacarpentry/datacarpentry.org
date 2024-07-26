@@ -1,0 +1,22 @@
+
+people:
+
+- person_name: Luis Villanueva
+  position: Chair
+  github: villanueval
+  country: US
+
+
+- person_name: Ivelina Momcheva
+  position: Secretary
+  github: ivastar
+  country: DE
+
+- person_name: Ulf Schiller
+  github: uschille
+  country: US
+
+
+- person_name: Mike Mahoney
+  github: mikemahoney218
+  country: US
