@@ -1,7 +1,7 @@
 # Top menu for Carpentries & Lesson Programs
 top:
   - name: The Carpentries
-    url: https://carpentries.org
+    url: https://carp-new-website.netlify.app/
     weight: 10
   - name: Data Carpentry
     url: /
@@ -9,10 +9,10 @@ top:
     params:
       active: true
   - name: Software Carpentry
-    url: https://software-carpentry.org
+    url: https://swc-new-website.netlify.app/
     weight: 30
   - name: Library Carpentry
-    url: https://librarycarpentry.org/
+    url: https://lc-new-website.netlify.app/
     weight: 40
 # Main menu
 main:
