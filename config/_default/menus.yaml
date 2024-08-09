@@ -6,6 +6,8 @@ top:
   - name: Data Carpentry
     url: /
     weight: 20
+    params:
+      active: true
   - name: Software Carpentry
     url: https://software-carpentry.org
     weight: 30
