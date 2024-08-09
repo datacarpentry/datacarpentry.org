@@ -35,19 +35,19 @@ main:
 # Learn Menu
 - identifier: workshops
   name: Workshops
-  url: "#"
+  url: "/workshops/"
   parent: null
-  weight: 20
+  weight: 10
 - identifier: workshops-upcoming
   name: Upcoming Workshops
   pageRef: "/workshops/workshops-upcoming/"
   parent: workshops
-  weight: 10
+  weight: 20
 - identifier: workshops-past
   name: Past Workshops
   pageRef: "/workshops/workshops-past/"
   parent: workshops
-  weight: 20
+  weight: 30
 # Lessons menu
 - identifier: lessons
   name: Lessons
