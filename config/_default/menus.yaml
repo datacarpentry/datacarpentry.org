@@ -35,24 +35,25 @@ main:
 # Learn Menu
 - identifier: workshops
   name: Workshops
-  url: "/workshops/"
+  url: "#"
   parent: null
-  weight: 10
+  weight: 20
 - identifier: workshops-upcoming
   name: Upcoming Workshops
   pageRef: "/workshops/workshops-upcoming/"
   parent: workshops
-  weight: 20
+  weight: 10
 - identifier: workshops-past
   name: Past Workshops
   pageRef: "/workshops/workshops-past/"
   parent: workshops
-  weight: 30
+  weight: 20
 # Lessons menu
 - identifier: lessons
   name: Lessons
   url: "/lessons/"
   parent: null
+  weight: 30
 - identifier: ecology
   name: Ecology
   url: "/lessons/#ecology"
@@ -68,7 +69,14 @@ main:
 # Main Carpentries site
 - identifier: carpentries
   name: The Carpentries
-  url: "https://carpentries.org"
+  url: "https://carp-new-website.netlify.app/"
+  parent: null
+  weight: 40
+- identifier: search
+  name: Search
+  url: /search/
+  parent: null
+  weight: 50
 
 footer:
 # Footer menu: Menu 1
