@@ -66,12 +66,7 @@ main:
   name: Genomics
   url: "/lessons/#genomics"
   parent: lessons
-# Main Carpentries site
-- identifier: carpentries
-  name: The Carpentries
-  url: "https://carp-new-website.netlify.app/"
-  parent: null
-  weight: 40
+
 
 footer:
 # Footer menu: Menu 1
