@@ -29,7 +29,7 @@ main:
   weight: 20
 - identifier: curriculum-advisors
   name:  Curriculum Advisors
-  url: "https://carpentries.org/curriculum-advisors/"
+  url: "/curriculum-advisors/"
   parent: about-us
   weight: 30
 # Learn Menu
