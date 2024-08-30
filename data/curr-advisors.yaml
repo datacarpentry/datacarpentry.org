@@ -1,5 +1,7 @@
 people:
 
+##### BEGIN ASTRONOMY #####
+
 - person_name: Azalee Bostroem
   position: Chair
   github: abostroem
@@ -13,6 +15,47 @@ people:
   country: NL
   twitter: 
   curriculum: astronomy
+
+- person_name: Adam Hughes
+  position:
+  github: tautme
+  country: US
+  twitter: 	coveredway
+  curriculum:
+
+- person_name: Brett Morris
+  position:
+  github: bmorris3
+  country: US
+  twitter: brettmor
+  curriculum: astronomy
+
+- person_name: Ivelina Momcheva
+  position:
+  github: ivastar
+  country: DE
+  twitter:
+  curriculum: astronomy
+
+
+- person_name: Meredith Rawls
+  position:
+  github: mrawls
+  country: US
+  twitter: merrdiff
+  curriculum: astronomy
+
+
+- person_name: Rachel Lee McClure
+  position:
+  github: rlmcclure
+  country:
+  twitter: astrachel
+  curriculum: astronomy
+
+##### END ASTRONOMY #####
+
+##### BEGIN ECOLOGY #####
 
 - person_name: Mike Trizna
   position: Chair
@@ -35,12 +78,63 @@ people:
   twitter: 
   curriculum: ecology
 
+- person_name: Adriana De Palma
+  position:
+  github: adrianadepalma
+  country: GB
+  twitter: adpalma
+  curriculum: ecology
+
+- person_name: Sichong Peng
+  position:
+  github: SichongP
+  country: US
+  twitter: Sichong93
+  curriculum: ecology
+
+##### END ECOLOGY #####
+
+##### BEGIN GENOMICS #####
+
 - person_name: Naupaka Zimmerman
   position: Chair
   github: naupaka
   country: US
   twitter: naupakaz
   curriculum: genomics
+
+- person_name: Saranya Canchi
+  position: Secretary
+  github: s-canchi
+  country: US
+  twitter: S_Canchi
+  curriculum: genomics
+
+- person_name: Sehrish Kanwal
+  position:
+  github: skanwal
+  country:
+  twitter:
+  curriculum: genomics
+
+- person_name: Graeme Grimes
+  position:
+  github:
+  country: GB
+  twitter: bioggrimes
+  curriculum: genomics
+
+- person_name: Indraneel Chakraborty
+  position:
+  github: ineelhere
+  country: IN
+  twitter: ineelhere
+  curriculum: genomics
+
+##### END GENOMICS #####
+
+##### BEGIN GEOSPATIAL #####
+
 
 - person_name: Stephen Appel
   position: Chair
@@ -56,6 +150,18 @@ people:
   twitter: 
   curriculum: geospatial
 
+- person_name: Mike Mahoney
+  position:
+  github: mikemahoney218
+  country: US
+  twitter: 	mikemahoney218
+  curriculum: geospatial
+
+##### END GEOSPATIAL #####
+
+##### BEGIN IMAGE PROCESSING #####
+
+
 - person_name: Ulf Schiller
   position: Chair
   github: uschille
@@ -70,61 +176,11 @@ people:
   twitter: notjustmoore
   curriculum: image
 
-- person_name: 
+- person_name: Erick Ratamero
   position: 
-  github: 
-  country: 
+  github: erickmartins
+  country: US
   twitter: 
-  curriculum:
+  curriculum: image 
 
-- person_name: 
-  position: 
-  github: 
-  country: 
-  twitter: 
-  curriculum:
-
-- person_name: 
-  position: 
-  github: 
-  country: 
-  twitter: 
-  curriculum:
-
-- person_name: 
-  position: 
-  github: 
-  country: 
-  twitter: 
-  curriculum:
-
-- person_name: 
-  position: 
-  github: 
-  country: 
-  twitter: 
-  curriculum:
-
-- person_name: 
-  position: 
-  github: 
-  country: 
-  twitter: 
-  curriculum:
-
-- person_name: 
-  position: 
-  github: 
-  country: 
-  twitter: 
-  curriculum:
-
-- person_name: 
-  position: 
-  github: 
-  country: 
-  twitter: 
-  curriculum:
-
-
-
+  ##### END IMAGE PROCESSING #####
