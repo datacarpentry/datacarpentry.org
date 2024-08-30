@@ -1,3 +1,5 @@
+# Note gravatars are needed for anyone without a GH profile
+
 people:
 
 ##### BEGIN ASTRONOMY #####
@@ -123,6 +125,7 @@ people:
   country: GB
   twitter: bioggrimes
   curriculum: genomics
+  gravatar: grimes
 
 - person_name: Indraneel Chakraborty
   position:
@@ -142,6 +145,7 @@ people:
   country: US
   twitter: 
   curriculum: geospatial
+  gravatar: appel
 
 - person_name: Justin Fain
   position: Secretary
