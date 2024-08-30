@@ -4,8 +4,6 @@ title: Data Carpentry Curriculum Advisors
 
 These are curriculum advisors for Data Carpentry. Should we have any text here or in each section?  Cotton candy lollipops and marshmallows.
 
-I am working on the issue of not all people having a profile image. This is due to people not having Github ids on record.  When they don't have ids on record, we will replace their image with a generic avatar.
-
 ## Astronomy
 
 Sweet roll biscuit shortbread halvah pudding chocolate. Toffee gummi bears soufflé sweet sesame snaps wafer.
