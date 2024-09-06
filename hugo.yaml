@@ -1,4 +1,7 @@
 # hugo.yaml
+baseURL: https://dc-new-website.netlify.app/
+languageCode: en-us
+title: Data Carpentry
 # Imports the theme into the projects
 module:
   imports:
