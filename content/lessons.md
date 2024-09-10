@@ -53,3 +53,19 @@ Chocolate lollipop sesame snaps bear claw apple pie apple pie. Lemon drops liquo
 {{< lesson_table curriculum="image-processing" >}}
 {{< /table >}}
 {{< /table >}}
+
+## Social Science 
+
+Halvah tart wafer bonbon fruitcake macaroon gingerbread macaroon cake. Muffin sweet roll jujubes danish cake gingerbread icing bonbon chocolate cake. Pie gummi bears macaroon marshmallow pastry gingerbread. 
+
+### Lessons 
+
+{{< table >}}
+{{< lesson_table curriculum="social-science" >}}
+{{< /table >}}
+
+### Lessons in development
+
+{{< table >}}
+{{< lesson_table curriculum="social-science-alpha" >}}
+{{< /table >}}
