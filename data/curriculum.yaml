@@ -150,53 +150,53 @@ curricula:
   maintainers: Jacob Deppen, Toby Hodges, Kimberly Meechan, Ulf Schiller
   curriculum: image-processing
 
-- lessonname: 
-  site:
-  repo:
+- lessonname: Social Science Workshop Overview
+  site: https://datacarpentry.org/socialsci-workshop/
+  repo: https://github.com/datacarpentry/socialsci-workshop/
   ref:
   inst_notes: 
-  maintainers: 
-  curriculum: 
+  maintainers: Johanna Bayer, Jean Baptiste Fankam Fankam, Jesse Sadler
+  curriculum: social-science
 
-- lessonname: 
-  site:
-  repo:
-  ref:
-  inst_notes: 
-  maintainers: 
-  curriculum: 
+- lessonname: Data Organization in Spreadsheets for Social Scientists
+  site: https://datacarpentry.org/spreadsheets-socialsci/
+  repo: https://github.com/datacarpentry/spreadsheets-socialsci/
+  ref: https://datacarpentry.org/spreadsheets-socialsci/reference.html
+  inst_notes: https://datacarpentry.org/spreadsheets-socialsci/instructor-notes.html
+  maintainers: Jose Niño Muriel, Bernard Kwame Solodzi
+  curriculum: social-science
 
-- lessonname: 
-  site:
-  repo:
-  ref:
-  inst_notes: 
-  maintainers: 
-  curriculum: 
+- lessonname: Data Cleaning with OpenRefine for Social Scientists
+  site: https://datacarpentry.org/openrefine-socialsci/
+  repo: https://github.com/datacarpentry/openrefine-socialsci/
+  ref: https://datacarpentry.org/openrefine-socialsci/reference.html
+  inst_notes: https://datacarpentry.org/openrefine-socialsci/instructor-notes.html
+  maintainers: Ben Companjen, Marijane White
+  curriculum: social-science
 
-- lessonname: 
-  site:
-  repo:
-  ref:
-  inst_notes: 
-  maintainers: 
-  curriculum: 
+- lessonname: Data Analysis and Visualization with R for Social Scientists	
+  site: https://datacarpentry.org/r-socialsci/
+  repo: https://github.com/datacarpentry/r-socialsci/
+  ref: https://datacarpentry.org/r-socialsci/reference.html
+  inst_notes: https://datacarpentry.org/r-socialsci/instructor-notes.html
+  maintainers: Juan Fung, Jesse Sadler, Eirini Zormpa
+  curriculum: social-science
 
-- lessonname: 
-  site:
-  repo:
-  ref:
-  inst_notes: 
+- lessonname: Data Analysis and Visualization with Python for Social Scientists *alpha*	
+  site: https://datacarpentry.org/python-socialsci/
+  repo: https://github.com/datacarpentry/python-socialsci/
+  ref: https://datacarpentry.org/python-socialsci/reference.html
+  inst_notes: https://datacarpentry.org/python-socialsci/instructor-notes.html
   maintainers: 
-  curriculum: 
+  curriculum: social-science-alpha
 
-- lessonname: 
-  site:
-  repo:
-  ref:
-  inst_notes: 
+- lessonname: Data Management with SQL for Social Scientists *alpha*	
+  site: https://datacarpentry.org/sql-socialsci/
+  repo: https://github.com/datacarpentry/sql-socialsci/
+  ref: https://datacarpentry.org/sql-socialsci/reference.html
+  inst_notes: https://datacarpentry.org/sql-socialsci/instructor-notes.html
   maintainers: 
-  curriculum: 
+  curriculum: social-science-alpha
 
 - lessonname: 
   site:
