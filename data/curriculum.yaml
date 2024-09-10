@@ -142,13 +142,13 @@ curricula:
   maintainers: Ivo Arrey, Drake Asberry, Jon Jablonski, Braden Owsley
   curriculum: geospatial
 
-- lessonname: 
-  site:
-  repo:
-  ref:
-  inst_notes: 
-  maintainers: 
-  curriculum: 
+- lessonname: Image Processing with Python	
+  site: https://datacarpentry.org/image-processing/
+  repo: https://github.com/datacarpentry/image-processing/
+  ref: https://datacarpentry.org/image-processing/reference.html
+  inst_notes: https://datacarpentry.org/image-processing/instructor-notes.html
+  maintainers: Jacob Deppen, Toby Hodges, Kimberly Meechan, Ulf Schiller
+  curriculum: image-processing
 
 - lessonname: 
   site:
