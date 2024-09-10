@@ -38,21 +38,17 @@ The Geonomics lessons are  cake lollipop topping caramels bonbon powder chocolat
 The Geospatial lessons are cookie icing toffee croissant. Oat cake shortbread toffee cotton candy lemon drops jelly. Candy canes cotton candy sugar plum cheesecake cotton candy oat cake pudding. Ice cream pie cupcake jelly cookie pastry biscuit cake. Liquorice shortbread cheesecake pudding sweet roll cupcake. Marshmallow tootsie roll fruitcake soufflé jelly beans sugar plum.
 
 {{< table >}}
-{{< table >}}
 {{< lesson_table curriculum="geospatial" >}}
 {{< /table >}}
-{{< /table >}}
-
 
 ## Image processing
 
 Chocolate lollipop sesame snaps bear claw apple pie apple pie. Lemon drops liquorice liquorice gummi bears carrot cake marshmallow. Liquorice wafer chupa chups fruitcake croissant jelly beans marshmallow. Cake tart chupa chups oat cake fruitcake. Cupcake lemon drops wafer donut chocolate danish marshmallow.
 
 {{< table >}}
-{{< table >}}
 {{< lesson_table curriculum="image-processing" >}}
 {{< /table >}}
-{{< /table >}}
+
 
 ## Social Science 
 
@@ -69,3 +65,4 @@ Halvah tart wafer bonbon fruitcake macaroon gingerbread macaroon cake. Muffin sw
 {{< table >}}
 {{< lesson_table curriculum="social-science-alpha" >}}
 {{< /table >}}
+
