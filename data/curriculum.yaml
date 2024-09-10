@@ -1,0 +1,272 @@
+curricula:
+
+- lessonname: Foundations of Astronomical Data Science
+  site: https://datacarpentry.org/astronomy-python/
+  repo: https://github.com/datacarpentry/astronomy-python/
+  ref: https://datacarpentry.org/astronomy-python/reference.html
+  inst_notes: https://datacarpentry.org/astronomy-python/instructor-notes.html
+  maintainers: Ralf Kotulla, Catherine Martlin, Dimitrios Theodorakis
+  curriculum: astronomy
+
+- lessonname: Ecology Workshop Overview
+  site: https://datacarpentry.org/ecology-workshop/
+  repo: https://github.com/datacarpentry/ecology-workshop/
+  ref:
+  inst_notes: 
+  maintainers: Juan Ugalde
+  curriculum: ecology
+  language: English
+
+- lessonname: Data Organization in Spreadsheets for Ecologists	
+  site: https://datacarpentry.org/spreadsheet-ecology-lesson/
+  repo: https://github.com/datacarpentry/spreadsheet-ecology-lesson/
+  ref: https://datacarpentry.org/spreadsheet-ecology-lesson/reference.html
+  inst_notes: https://datacarpentry.org/spreadsheet-ecology-lesson/instructor-notes.html
+  maintainers: Fonti Kar, Mary Tuttle
+  curriculum: ecology
+  language: English
+
+- lessonname: Data Cleaning with OpenRefine for Ecologists
+  site: https://datacarpentry.org/OpenRefine-ecology-lesson/
+  repo: https://github.com/datacarpentry/OpenRefine-ecology-lesson/
+  ref: https://datacarpentry.org/OpenRefine-ecology-lesson/reference.html
+  inst_notes:  https://datacarpentry.org/spreadsheet-ecology-lesson/instructor-notes.html
+  maintainers: Tajudeen Akanbi Akinosho, Luis J Villanueva
+  curriculum: ecology
+  language: English
+
+- lessonname: Data Management with SQL for Ecologists
+  site: https://datacarpentry.org/sql-ecology-lesson/
+  repo: https://github.com/datacarpentry/sql-ecology-lesson/
+  ref: https://datacarpentry.org/sql-ecology-lesson/reference.html
+  inst_notes: https://datacarpentry.org/sql-ecology-lesson/instructor-notes.html
+  maintainers: James Foster, Adam Mansur
+  curriculum: ecology
+  language: English
+
+- lessonname: Data Analysis and Visualization in R for Ecologists	
+  site: https://datacarpentry.org/R-ecology-lesson/
+  repo: https://github.com/datacarpentry/R-ecology-lesson/
+  ref: https://datacarpentry.org/R-ecology-lesson/reference
+  inst_notes: https://datacarpentry.org/R-ecology-lesson/instructor-notes
+  maintainers: Nikki Gentle, Doug Joubert, Elif Dede Yildirim
+  curriculum: ecology
+  language: English
+
+- lessonname: Análisis y visualización de datos usando Python (Beta)
+  site: https://datacarpentry.org/python-ecology-lesson-es/
+  repo: https://github.com/datacarpentry/python-ecology-lesson-es/
+  ref: https://datacarpentry.org/python-ecology-lesson-es/reference.html
+  inst_notes: https://datacarpentry.org/python-ecology-lesson-es/instructor-notes.html
+  maintainers: Irene Ramos Pérez, Agustina Pesce, Vini Salazar, Heladia Salgado
+  curriculum: ecology
+  language: English
+
+- lessonname: Genomics Workshop Overview
+  site: https://datacarpentry.org/genomics-workshop/
+  repo: https://github.com/datacarpentry/genomics-workshop/
+  ref: https://datacarpentry.org/genomics-workshop/faq/
+  inst_notes: https://datacarpentry.org/genomics-workshop/guide/
+  maintainers: Anuj Guruacharya, Travis Wrightsman
+  curriculum: genomics
+
+- lessonname: Project Organization and Management for Genomics
+  site: https://datacarpentry.org/organization-genomics
+  repo: https://github.com/datacarpentry/organization-genomics/
+  ref: https://datacarpentry.org/organization-genomics/reference.html
+  inst_notes: https://datacarpentry.org/organization-genomics/instructor-notes.html
+  maintainers: Kathleen Chappell, Aziz Khan, Jake Szamosi
+  curriculum: genomics
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
