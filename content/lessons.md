@@ -21,8 +21,16 @@ The Ecology lessons are  cupcake chocolate cake cotton candy caramels. Candy car
 
 The Geonomics lessons are  cake lollipop topping caramels bonbon powder chocolate bar tart. Toffee candy canes muffin candy canes bear claw caramels brownie muffin danish. Cupcake muffin tiramisu lollipop marshmallow.
 
+### Lessons
+
 {{< table >}}
 {{< lesson_table curriculum="genomics" >}}
+{{< /table >}}
+
+### Lessons in Development
+
+{{< table >}}
+{{< lesson_table curriculum="genomics-beta" >}}
 {{< /table >}}
 
 ## Geospatial
