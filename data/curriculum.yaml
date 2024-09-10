@@ -110,37 +110,37 @@ curricula:
   maintainers: Yuka Takemon, Jason Williams, Naupaka Zimmerman
   curriculum: genomics-beta
 
-- lessonname: 
-  site:
-  repo:
+- lessonname: Geospatial Workshop Overview
+  site: https://datacarpentry.org/geospatial-workshop/
+  repo: https://github.com/datacarpentry/geospatial-workshop/
   ref:
-  inst_notes: 
+  inst_notes: https://datacarpentry.org/geospatial-workshop/guide/
   maintainers: 
-  curriculum: 
+  curriculum: geospatial
 
-- lessonname: 
-  site:
-  repo:
-  ref:
+- lessonname: Introduction to Geospatial Concepts	
+  site: https://datacarpentry.org/organization-geospatial/
+  repo: https://github.com/datacarpentry/organization-geospatial/
+  ref: https://datacarpentry.org/organization-geospatial/reference.html
   inst_notes: 
-  maintainers: 
-  curriculum: 
+  maintainers: Marissa Block, Rohit Goswami, Girmaye Misgna
+  curriculum: geospatial
 
-- lessonname: 
-  site:
-  repo:
-  ref:
-  inst_notes: 
-  maintainers: 
-  curriculum: 
+- lessonname: Introduction to R for Geospatial Data	
+  site: https://datacarpentry.org/r-intro-geospatial
+  repo: https://github.com/datacarpentry/r-intro-geospatial/
+  ref: https://datacarpentry.org/r-intro-geospatial/reference.html
+  inst_notes: https://datacarpentry.org/r-intro-geospatial/instructor-notes.html
+  maintainers: Johanna Bayer, Kristi Liu, Alber Sánchez
+  curriculum: geospatial
 
-- lessonname: 
-  site:
-  repo:
-  ref:
-  inst_notes: 
-  maintainers: 
-  curriculum: 
+- lessonname: Introduction to Geospatial Raster and Vector Data with R	
+  site: https://datacarpentry.org/r-raster-vector-geospatial
+  repo: https://github.com/datacarpentry/r-raster-vector-geospatial/
+  ref: https://datacarpentry.org/r-raster-vector-geospatial/reference.html
+  inst_notes: https://datacarpentry.org/r-raster-vector-geospatial/instructor-notes.html
+  maintainers: Ivo Arrey, Drake Asberry, Jon Jablonski, Braden Owsley
+  curriculum: geospatial
 
 - lessonname: 
   site:
