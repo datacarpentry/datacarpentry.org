@@ -42,3 +42,14 @@ The Geospatial lessons are cookie icing toffee croissant. Oat cake shortbread to
 {{< lesson_table curriculum="geospatial" >}}
 {{< /table >}}
 {{< /table >}}
+
+
+## Image processing
+
+Chocolate lollipop sesame snaps bear claw apple pie apple pie. Lemon drops liquorice liquorice gummi bears carrot cake marshmallow. Liquorice wafer chupa chups fruitcake croissant jelly beans marshmallow. Cake tart chupa chups oat cake fruitcake. Cupcake lemon drops wafer donut chocolate danish marshmallow.
+
+{{< table >}}
+{{< table >}}
+{{< lesson_table curriculum="image-processing" >}}
+{{< /table >}}
+{{< /table >}}
