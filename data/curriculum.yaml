@@ -78,37 +78,37 @@ curricula:
   maintainers: Kathleen Chappell, Aziz Khan, Jake Szamosi
   curriculum: genomics
 
-- lessonname: 
-  site:
-  repo:
-  ref:
-  inst_notes: 
-  maintainers: 
-  curriculum: 
+- lessonname: Introduction to the Command Line for Genomics	
+  site: https://datacarpentry.org/shell-genomics/
+  repo: https://github.com/datacarpentry/shell-genomics/
+  ref: https://datacarpentry.org/shell-genomics/reference.html
+  inst_notes: https://datacarpentry.org/shell-genomics/instructor-notes.html
+  maintainers: Valentina Hurtado-McCormick, Alison Meynert, Paul Smith
+  curriculum: genomics
 
-- lessonname: 
-  site:
-  repo:
-  ref:
-  inst_notes: 
-  maintainers: 
-  curriculum: 
+- lessonname: Data Wrangling and Processing for Genomics	
+  site: https://datacarpentry.org/wrangling-genomics/
+  repo: https://github.com/datacarpentry/wrangling-genomics/
+  ref: https://datacarpentry.org/wrangling-genomics/reference.html
+  inst_notes: https://datacarpentry.org/cloud-genomics/instructor-notes.html
+  maintainers: Josh Herr, Parcelli Jepchirchir, Aida Miró-Herrans
+  curriculum: genomics
 
-- lessonname: 
-  site:
-  repo:
-  ref:
-  inst_notes: 
-  maintainers: 
-  curriculum: 
+- lessonname: Introduction to Cloud Computing for Genomics	
+  site: https://datacarpentry.org/cloud-genomics
+  repo: https://github.com/datacarpentry/cloud-genomics/
+  ref: https://datacarpentry.org/cloud-genomics/reference.html
+  inst_notes: https://datacarpentry.org/cloud-genomics/instructor-notes.html
+  maintainers: Caroline Kisielinski, Helen King
+  curriculum: genomics
 
-- lessonname: 
-  site:
-  repo:
-  ref:
-  inst_notes: 
-  maintainers: 
-  curriculum: 
+- lessonname: Data Analysis and Visualization in R *beta*
+  site: https://datacarpentry.org/genomics-r-intro/
+  repo: https://github.com/datacarpentry/genomics-r-intro/
+  ref: https://datacarpentry.org/genomics-r-intro/reference.html
+  inst_notes: https://datacarpentry.org/genomics-r-intro/instructor-notes.html
+  maintainers: Yuka Takemon, Jason Williams, Naupaka Zimmerman
+  curriculum: genomics-beta
 
 - lessonname: 
   site:
