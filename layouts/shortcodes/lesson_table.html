@@ -1,5 +1,5 @@
 {{ $all_lessons := site.Data.curriculum.curricula }}
-{{ $type := .Get "type" }}
+{{ $curriculum := .Get "curriculum" }}
 
 <table>
 <thead>
@@ -9,20 +9,18 @@
 <th>Repository</th>
 <th>Reference</th>
 <th>Instructor Notes</th>
-<th>Status</th>
 <th>Maintainers</th>
 </tr>
 </thead>
 <tbody>
 
-{{ range where $all_lessons "category" "eq" $type }}
+{{ range where $all_lessons "curriculum" "eq" $curriculum }}
 <tr>
     <td>{{ .lessonname }}</td>
     <td><a href="{{ .site }}"><i class="fas fa-window-maximize"></i></a></td>
     <td><a href="{{ .repo }}"><i class="fab fa-github"></i></a></td>
     <td><a href="{{ .ref }}"><i class="fas fa-eye"></i></a></td>
     <td><a href="{{ .notes }}"><i class="fas fa-plus"></i></a></td>
-    <td>{{ .status }}</td>
     <td>{{ .maintainers }} </td>
 </tr>
 {{ end }}
