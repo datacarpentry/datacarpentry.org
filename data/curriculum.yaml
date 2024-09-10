@@ -198,21 +198,21 @@ curricula:
   maintainers: 
   curriculum: social-science-alpha
 
-- lessonname: 
-  site:
-  repo:
-  ref:
-  inst_notes: 
-  maintainers: 
-  curriculum: 
+- lessonname: Introduction to Stata for Economics	
+  site: https://datacarpentry.org/stata-economics/
+  repo: https://github.com/datacarpentry/stata-economics/
+  ref: https://datacarpentry.org/stata-economics/reference.html
+  inst_notes: https://datacarpentry.org/stata-economics/guide/
+  maintainers: Miklós Koren, Arieda Muço, Andras Vereckei
+  curriculum: economics
 
-- lessonname: 
-  site:
-  repo:
-  ref:
-  inst_notes: 
-  maintainers: 
-  curriculum: 
+- lessonname: Introduction to the Command Line for Economics	
+  site: https://datacarpentry.org/shell-economics/
+  repo: https://github.com/datacarpentry/shell-economics/
+  ref: https://datacarpentry.org/shell-economics/reference.html
+  inst_notes: https://datacarpentry.org/shell-economics/guide/
+  maintainers: Miklós Koren, Arieda Muço, Andras Vereckei
+  curriculum: economics
 
 - lessonname: 
   site:
