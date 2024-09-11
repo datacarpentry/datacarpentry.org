@@ -13,8 +13,14 @@ Here is information about our lessons.  Software Carpentry lessons are here as p
 
 The Ecology lessons are  cupcake chocolate cake cotton candy caramels. Candy carrot cake carrot cake halvah jelly cheesecake chupa chups chocolate. Sesame snaps chupa chups liquorice pie sesame snaps lollipop gummi bears. Lemon drops macaroon candy gummies macaroon sesame snaps marzipan. 
 
+### Lessons in English
 {{< table >}}
 {{< lesson_table curriculum="ecology" >}}
+{{< /table >}}
+
+### Lecciones en español
+{{< table >}}
+{{< lesson_table curriculum="ecology-es" language="spanish" >}}
 {{< /table >}}
 
 ## Genomics
