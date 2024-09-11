@@ -1,0 +1,272 @@
+curricula:
+
+- lessonname: Foundations of Astronomical Data Science
+  site: https://datacarpentry.org/astronomy-python/
+  repo: https://github.com/datacarpentry/astronomy-python/
+  ref: https://datacarpentry.org/astronomy-python/reference.html
+  inst_notes: https://datacarpentry.org/astronomy-python/instructor-notes.html
+  maintainers: Ralf Kotulla, Catherine Martlin, Dimitrios Theodorakis
+  curriculum: astronomy
+
+- lessonname: Ecology Workshop Overview
+  site: https://datacarpentry.org/ecology-workshop/
+  repo: https://github.com/datacarpentry/ecology-workshop/
+  ref:
+  inst_notes: 
+  maintainers: Juan Ugalde
+  curriculum: ecology
+  language: English
+
+- lessonname: Data Organization in Spreadsheets for Ecologists	
+  site: https://datacarpentry.org/spreadsheet-ecology-lesson/
+  repo: https://github.com/datacarpentry/spreadsheet-ecology-lesson/
+  ref: https://datacarpentry.org/spreadsheet-ecology-lesson/reference.html
+  inst_notes: https://datacarpentry.org/spreadsheet-ecology-lesson/instructor-notes.html
+  maintainers: Fonti Kar, Mary Tuttle
+  curriculum: ecology
+  language: English
+
+- lessonname: Data Cleaning with OpenRefine for Ecologists
+  site: https://datacarpentry.org/OpenRefine-ecology-lesson/
+  repo: https://github.com/datacarpentry/OpenRefine-ecology-lesson/
+  ref: https://datacarpentry.org/OpenRefine-ecology-lesson/reference.html
+  inst_notes:  https://datacarpentry.org/spreadsheet-ecology-lesson/instructor-notes.html
+  maintainers: Tajudeen Akanbi Akinosho, Luis J Villanueva
+  curriculum: ecology
+  language: English
+
+- lessonname: Data Management with SQL for Ecologists
+  site: https://datacarpentry.org/sql-ecology-lesson/
+  repo: https://github.com/datacarpentry/sql-ecology-lesson/
+  ref: https://datacarpentry.org/sql-ecology-lesson/reference.html
+  inst_notes: https://datacarpentry.org/sql-ecology-lesson/instructor-notes.html
+  maintainers: James Foster, Adam Mansur
+  curriculum: ecology
+  language: English
+
+- lessonname: Data Analysis and Visualization in R for Ecologists	
+  site: https://datacarpentry.org/R-ecology-lesson/
+  repo: https://github.com/datacarpentry/R-ecology-lesson/
+  ref: https://datacarpentry.org/R-ecology-lesson/reference
+  inst_notes: https://datacarpentry.org/R-ecology-lesson/instructor-notes
+  maintainers: Nikki Gentle, Doug Joubert, Elif Dede Yildirim
+  curriculum: ecology
+  language: English
+
+- lessonname: Análisis y visualización de datos usando Python (Beta)
+  site: https://datacarpentry.org/python-ecology-lesson-es/
+  repo: https://github.com/datacarpentry/python-ecology-lesson-es/
+  ref: https://datacarpentry.org/python-ecology-lesson-es/reference.html
+  inst_notes: https://datacarpentry.org/python-ecology-lesson-es/instructor-notes.html
+  maintainers: Irene Ramos Pérez, Agustina Pesce, Vini Salazar, Heladia Salgado
+  curriculum: ecology
+  language: English
+
+- lessonname: Genomics Workshop Overview
+  site: https://datacarpentry.org/genomics-workshop/
+  repo: https://github.com/datacarpentry/genomics-workshop/
+  ref: https://datacarpentry.org/genomics-workshop/faq/
+  inst_notes: https://datacarpentry.org/genomics-workshop/guide/
+  maintainers: Anuj Guruacharya, Travis Wrightsman
+  curriculum: genomics
+
+- lessonname: Project Organization and Management for Genomics
+  site: https://datacarpentry.org/organization-genomics
+  repo: https://github.com/datacarpentry/organization-genomics/
+  ref: https://datacarpentry.org/organization-genomics/reference.html
+  inst_notes: https://datacarpentry.org/organization-genomics/instructor-notes.html
+  maintainers: Kathleen Chappell, Aziz Khan, Jake Szamosi
+  curriculum: genomics
+
+- lessonname: Introduction to the Command Line for Genomics	
+  site: https://datacarpentry.org/shell-genomics/
+  repo: https://github.com/datacarpentry/shell-genomics/
+  ref: https://datacarpentry.org/shell-genomics/reference.html
+  inst_notes: https://datacarpentry.org/shell-genomics/instructor-notes.html
+  maintainers: Valentina Hurtado-McCormick, Alison Meynert, Paul Smith
+  curriculum: genomics
+
+- lessonname: Data Wrangling and Processing for Genomics	
+  site: https://datacarpentry.org/wrangling-genomics/
+  repo: https://github.com/datacarpentry/wrangling-genomics/
+  ref: https://datacarpentry.org/wrangling-genomics/reference.html
+  inst_notes: https://datacarpentry.org/cloud-genomics/instructor-notes.html
+  maintainers: Josh Herr, Parcelli Jepchirchir, Aida Miró-Herrans
+  curriculum: genomics
+
+- lessonname: Introduction to Cloud Computing for Genomics	
+  site: https://datacarpentry.org/cloud-genomics
+  repo: https://github.com/datacarpentry/cloud-genomics/
+  ref: https://datacarpentry.org/cloud-genomics/reference.html
+  inst_notes: https://datacarpentry.org/cloud-genomics/instructor-notes.html
+  maintainers: Caroline Kisielinski, Helen King
+  curriculum: genomics
+
+- lessonname: Data Analysis and Visualization in R *beta*
+  site: https://datacarpentry.org/genomics-r-intro/
+  repo: https://github.com/datacarpentry/genomics-r-intro/
+  ref: https://datacarpentry.org/genomics-r-intro/reference.html
+  inst_notes: https://datacarpentry.org/genomics-r-intro/instructor-notes.html
+  maintainers: Yuka Takemon, Jason Williams, Naupaka Zimmerman
+  curriculum: genomics-beta
+
+- lessonname: Geospatial Workshop Overview
+  site: https://datacarpentry.org/geospatial-workshop/
+  repo: https://github.com/datacarpentry/geospatial-workshop/
+  ref:
+  inst_notes: https://datacarpentry.org/geospatial-workshop/guide/
+  maintainers: 
+  curriculum: geospatial
+
+- lessonname: Introduction to Geospatial Concepts	
+  site: https://datacarpentry.org/organization-geospatial/
+  repo: https://github.com/datacarpentry/organization-geospatial/
+  ref: https://datacarpentry.org/organization-geospatial/reference.html
+  inst_notes: 
+  maintainers: Marissa Block, Rohit Goswami, Girmaye Misgna
+  curriculum: geospatial
+
+- lessonname: Introduction to R for Geospatial Data	
+  site: https://datacarpentry.org/r-intro-geospatial
+  repo: https://github.com/datacarpentry/r-intro-geospatial/
+  ref: https://datacarpentry.org/r-intro-geospatial/reference.html
+  inst_notes: https://datacarpentry.org/r-intro-geospatial/instructor-notes.html
+  maintainers: Johanna Bayer, Kristi Liu, Alber Sánchez
+  curriculum: geospatial
+
+- lessonname: Introduction to Geospatial Raster and Vector Data with R	
+  site: https://datacarpentry.org/r-raster-vector-geospatial
+  repo: https://github.com/datacarpentry/r-raster-vector-geospatial/
+  ref: https://datacarpentry.org/r-raster-vector-geospatial/reference.html
+  inst_notes: https://datacarpentry.org/r-raster-vector-geospatial/instructor-notes.html
+  maintainers: Ivo Arrey, Drake Asberry, Jon Jablonski, Braden Owsley
+  curriculum: geospatial
+
+- lessonname: Image Processing with Python	
+  site: https://datacarpentry.org/image-processing/
+  repo: https://github.com/datacarpentry/image-processing/
+  ref: https://datacarpentry.org/image-processing/reference.html
+  inst_notes: https://datacarpentry.org/image-processing/instructor-notes.html
+  maintainers: Jacob Deppen, Toby Hodges, Kimberly Meechan, Ulf Schiller
+  curriculum: image-processing
+
+- lessonname: Social Science Workshop Overview
+  site: https://datacarpentry.org/socialsci-workshop/
+  repo: https://github.com/datacarpentry/socialsci-workshop/
+  ref:
+  inst_notes: 
+  maintainers: Johanna Bayer, Jean Baptiste Fankam Fankam, Jesse Sadler
+  curriculum: social-science
+
+- lessonname: Data Organization in Spreadsheets for Social Scientists
+  site: https://datacarpentry.org/spreadsheets-socialsci/
+  repo: https://github.com/datacarpentry/spreadsheets-socialsci/
+  ref: https://datacarpentry.org/spreadsheets-socialsci/reference.html
+  inst_notes: https://datacarpentry.org/spreadsheets-socialsci/instructor-notes.html
+  maintainers: Jose Niño Muriel, Bernard Kwame Solodzi
+  curriculum: social-science
+
+- lessonname: Data Cleaning with OpenRefine for Social Scientists
+  site: https://datacarpentry.org/openrefine-socialsci/
+  repo: https://github.com/datacarpentry/openrefine-socialsci/
+  ref: https://datacarpentry.org/openrefine-socialsci/reference.html
+  inst_notes: https://datacarpentry.org/openrefine-socialsci/instructor-notes.html
+  maintainers: Ben Companjen, Marijane White
+  curriculum: social-science
+
+- lessonname: Data Analysis and Visualization with R for Social Scientists	
+  site: https://datacarpentry.org/r-socialsci/
+  repo: https://github.com/datacarpentry/r-socialsci/
+  ref: https://datacarpentry.org/r-socialsci/reference.html
+  inst_notes: https://datacarpentry.org/r-socialsci/instructor-notes.html
+  maintainers: Juan Fung, Jesse Sadler, Eirini Zormpa
+  curriculum: social-science
+
+- lessonname: Data Analysis and Visualization with Python for Social Scientists *alpha*	
+  site: https://datacarpentry.org/python-socialsci/
+  repo: https://github.com/datacarpentry/python-socialsci/
+  ref: https://datacarpentry.org/python-socialsci/reference.html
+  inst_notes: https://datacarpentry.org/python-socialsci/instructor-notes.html
+  maintainers: 
+  curriculum: social-science-alpha
+
+- lessonname: Data Management with SQL for Social Scientists *alpha*	
+  site: https://datacarpentry.org/sql-socialsci/
+  repo: https://github.com/datacarpentry/sql-socialsci/
+  ref: https://datacarpentry.org/sql-socialsci/reference.html
+  inst_notes: https://datacarpentry.org/sql-socialsci/instructor-notes.html
+  maintainers: 
+  curriculum: social-science-alpha
+
+- lessonname: Introduction to Stata for Economics	
+  site: https://datacarpentry.org/stata-economics/
+  repo: https://github.com/datacarpentry/stata-economics/
+  ref: https://datacarpentry.org/stata-economics/reference.html
+  inst_notes: https://datacarpentry.org/stata-economics/guide/
+  maintainers: Miklós Koren, Arieda Muço, Andras Vereckei
+  curriculum: economics
+
+- lessonname: Introduction to the Command Line for Economics	
+  site: https://datacarpentry.org/shell-economics/
+  repo: https://github.com/datacarpentry/shell-economics/
+  ref: https://datacarpentry.org/shell-economics/reference.html
+  inst_notes: https://datacarpentry.org/shell-economics/guide/
+  maintainers: Miklós Koren, Arieda Muço, Andras Vereckei
+  curriculum: economics
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
+- lessonname: 
+  site:
+  repo:
+  ref:
+  inst_notes: 
+  maintainers: 
+  curriculum: 
+
