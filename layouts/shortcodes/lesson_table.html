@@ -1,7 +1,20 @@
 {{ $all_lessons := site.Data.curriculum.curricula }}
 {{ $curriculum := .Get "curriculum" }}
+{{ $language := .Get "language" }}
 
 <table>
+{{ if eq $language "spanish" }}    
+<thead>
+<tr>
+<th>Lección</th>
+<th>Sitio web</th>
+<th>Repositorio</th>
+<th>Referencia</th>
+<th>Guía del instructor</th>
+<th>Mantenedor(es)</th>
+</tr>
+</thead>
+{{ else }}
 <thead>
 <tr>
 <th>Lesson</th>
@@ -12,6 +25,7 @@
 <th>Maintainers</th>
 </tr>
 </thead>
+{{ end }}
 <tbody>
 
 {{ range where $all_lessons "curriculum" "eq" $curriculum }}
