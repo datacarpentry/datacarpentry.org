@@ -59,7 +59,7 @@ curricula:
   ref: https://datacarpentry.org/python-ecology-lesson-es/reference.html
   inst_notes: https://datacarpentry.org/python-ecology-lesson-es/instructor-notes.html
   maintainers: Irene Ramos Pérez, Agustina Pesce, Vini Salazar, Heladia Salgado
-  curriculum: ecology
+  curriculum: ecology-es
   language: English
 
 - lessonname: Genomics Workshop Overview
