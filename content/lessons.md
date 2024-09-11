@@ -7,7 +7,7 @@ widgets:
 ---
 
 
-Here is information about our lessons.  Software Carpentry lessons are here as placeholders while we work on the full Data Carpentry lesson set.
+Here is information about our lessons.  Carrot cake gummies shortbread wafer shortbread. Muffin chocolate cake lemon drops chupa chups tart dragée bear claw caramels marzipan. Pie croissant halvah danish sesame snaps jujubes candy canes jelly. Tiramisu lemon drops pastry gummi bears jelly beans wafer candy canes fruitcake. 
 
 ## Ecology
 
