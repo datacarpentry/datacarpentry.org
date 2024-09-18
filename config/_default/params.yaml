@@ -6,3 +6,5 @@ logoFooterAlt: Data Carpentry
 footer_overview_text: Data Carpentry is a lesson program of The Carpentries. Cake pastry candy carrot cake croissant tootsie roll chocolate bar dragée cotton candy.
 
 git_repo: https://github.com/datacarpentry/new-website
+
+carpentries_workshops_page: https://carp-new-website.netlify.app/workshops/
