@@ -59,6 +59,10 @@ main:
   url: "/lessons/"
   parent: null
   weight: 30
+- identifier: astronomy
+  name: Astronomy
+  url: "/lessons/#astronomy"
+  parent: lessons
 - identifier: ecology
   name: Ecology
   url: "/lessons/#ecology"
