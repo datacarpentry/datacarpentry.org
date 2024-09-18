@@ -24,7 +24,9 @@ The Foundations of Astronomical Data Science curriculum covers a range of core c
 
 ## Ecology
 
-The Ecology lessons are  cupcake chocolate cake cotton candy caramels. Candy carrot cake carrot cake halvah jelly cheesecake chupa chups chocolate. Sesame snaps chupa chups liquorice pie sesame snaps lollipop gummi bears. Lemon drops macaroon candy gummies macaroon sesame snaps marzipan. 
+This workshop uses a tabular ecology dataset from the Portal Project Teaching Database and teaches data cleaning, management, analysis, and visualization. There are no pre-requisites, and the materials assume no prior knowledge about the tools. We use a single dataset throughout the workshop to model the data management and analysis workflow that a researcher would use.
+
+The Ecology workshop can be taught using R or Python as the base language.
 
 ### Lessons in English
 {{< table >}}
@@ -38,7 +40,13 @@ The Ecology lessons are  cupcake chocolate cake cotton candy caramels. Candy car
 
 ## Genomics
 
-The Geonomics lessons are  cake lollipop topping caramels bonbon powder chocolate bar tart. Toffee candy canes muffin candy canes bear claw caramels brownie muffin danish. Cupcake muffin tiramisu lollipop marshmallow.
+The focus of this workshop is on working with genomics data, and data management and analysis for genomics research, including best practices for organization of bioinformatics projects and data, use of command line utilities, use of command line tools to analyze sequence quality and perform variant calling, and connecting to and using cloud computing.
+
+More information about hosting and teaching a Genomics workshop can be found on our FAQ page.
+
+Interested in teaching these materials? We have an onboarding video and accompanying slides available to prepare Instructors to teach these lessons. After watching this video, please contact team@carpentries.org so that we can record your status as an onboarded Instructor. Instructors who have completed onboarding will be given priority status for teaching at Centrally-Organised Data Carpentry Genomics workshops.
+
+Please note that workshop materials for working with Genomics data in R in “alpha” development. These lessons are available for review and for informal teaching experiences, but are not yet part of The Carpentries’ official lesson offerings.
 
 ### Lessons
 
@@ -54,7 +62,11 @@ The Geonomics lessons are  cake lollipop topping caramels bonbon powder chocolat
 
 ## Geospatial
 
-The Geospatial lessons are cookie icing toffee croissant. Oat cake shortbread toffee cotton candy lemon drops jelly. Candy canes cotton candy sugar plum cheesecake cotton candy oat cake pudding. Ice cream pie cupcake jelly cookie pastry biscuit cake. Liquorice shortbread cheesecake pudding sweet roll cupcake. Marshmallow tootsie roll fruitcake soufflé jelly beans sugar plum.
+This workshop is co-developed with the National Ecological Observatory Network (NEON). It focuses on working with geospatial data - managing and understanding spatial data formats, understanding coordinate reference systems, and working with raster and vector data in R for analysis and visualization.
+
+Join the geospatial curriculum email list to get updates and be involved in conversations about this curriculum.
+
+Interested in teaching these materials? We have an onboarding video and accompanying slides available to prepare Instructors to teach these lessons. After watching this video, please contact team@carpentries.org so that we can record your status as an onboarded Instructor. Instructors who have completed onboarding will be given priority status for teaching at Centrally-Organised Data Carpentry Geospatial workshops.
 
 {{< table >}}
 {{< lesson_table curriculum="geospatial" >}}
@@ -62,7 +74,9 @@ The Geospatial lessons are cookie icing toffee croissant. Oat cake shortbread to
 
 ## Image processing
 
-Chocolate lollipop sesame snaps bear claw apple pie apple pie. Lemon drops liquorice liquorice gummi bears carrot cake marshmallow. Liquorice wafer chupa chups fruitcake croissant jelly beans marshmallow. Cake tart chupa chups oat cake fruitcake. Cupcake lemon drops wafer donut chocolate danish marshmallow.
+This workshop uses Python and a variety of example images to teach the foundational concepts of image processing, and the skills needed to programmatically extract information from image data. The current version of the curriculum was developed from material originally created by Dr. Tessa Durham Brooks and Dr. Mark Meysenburg at Doane College, Nebraska, USA, with support from an NSF iUSE grant. Further development of the curriculum was supported by a grant from the Sloan Foundation/.
+
+Join the image processing curriculum email list and/or the dc-image-processing channel on The Carpentries Slack workspace to get updates and be involved in conversations about this curriculum.
 
 {{< table >}}
 {{< lesson_table curriculum="image-processing" >}}
@@ -71,7 +85,11 @@ Chocolate lollipop sesame snaps bear claw apple pie apple pie. Lemon drops liquo
 
 ## Social Science 
 
-Halvah tart wafer bonbon fruitcake macaroon gingerbread macaroon cake. Muffin sweet roll jujubes danish cake gingerbread icing bonbon chocolate cake. Pie gummi bears macaroon marshmallow pastry gingerbread. 
+This workshop uses a tabular interview dataset from the SAFI Teaching Database and teaches data cleaning, management, analysis and visualization. There are no pre-requisites, and the materials assume no prior knowledge about the tools. We use a single dataset throughout the workshop to model the data management and analysis workflow that a researcher would use.
+
+The Social Sciences workshop can be taught using R as the base language. Interested in teaching these materials? We have an onboarding video and accompanying slides available to prepare Instructors to teach these lessons. After watching this video, please contact team@carpentries.org so that we can record your status as an onboarded Instructor. Instructors who have completed onboarding will be given priority status for teaching at Centrally-Organised Data Carpentry Social Sciences workshops.
+
+Please note that workshop materials for working with Social Science data in Python and SQL are under development.
 
 ### Lessons 
 
