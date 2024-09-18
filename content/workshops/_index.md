@@ -1,12 +1,12 @@
 ---
 title: Workshops
 layout: single
+hideToc: true
 ---
 
-Here is information specifically about **Software Carpentry** workshops.  What content should go on this page?  
-
-For more information, please see:
+For more information about our workshops, please see: 
 
 * [List of past workshops](/workshops/workshops-past)
 * [List of upcoming workshops](/workshops/workshops-upcoming)
-* [Software Carpentry lessons](/lessons)
+* [Data Carpentry lessons](/lessons)
+* [About Carpentries workshops]({{< param carpentries_workshops_page>}})
