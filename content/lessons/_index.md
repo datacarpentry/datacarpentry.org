@@ -6,12 +6,27 @@ widgets:
 - sponsors
 ---
 
+We facilitate and develop lessons for Data Carpentry workshops. These lessons are distributed under the CC-BY license and are free for re-use or adaptation, with attribution. We’ve had people use the lessons in courses, to build new lessons, or use them for self-guided learning.
 
-Here is information about our lessons.  Carrot cake gummies shortbread wafer shortbread. Muffin chocolate cake lemon drops chupa chups tart dragée bear claw caramels marzipan. Pie croissant halvah danish sesame snaps jujubes candy canes jelly. Tiramisu lemon drops pastry gummi bears jelly beans wafer candy canes fruitcake. 
+Data Carpentry workshops are domain-specific, so that we are teaching researchers the skills most relevant to their domain and using examples from their type of work. Therefore we have several types of workshops and curriculum is organized by domain.
+
+[Curriculum Advisors](/about-us/curriculum-advisors/) are part of a team that provides the oversight, vision, and leadership for a particular set of lessons. More information about the role of the Curriculum Advisory Committee can be found in the Carpentries Handbook.
+
+## Astronomy
+
+The Foundations of Astronomical Data Science curriculum covers a range of core concepts necessary to efficiently study the ever-growing datasets developed in modern astronomy. This curriculum teaches learners to perform database operations (SQL queries, joins, filtering) and to create publication-quality data visualisations. This curriculum [assumes some prior knowledge of Python](https://datacarpentry.org/astronomy-python/prereqs/index.html) and exposure to the Bash shell, equivalent to that taught in a Software Carpentry workshop.
+
+### Lessons 
+{{< table >}}
+{{< lesson_table curriculum="astronomy" >}}
+{{< /table >}}
+
 
 ## Ecology
 
-The Ecology lessons are  cupcake chocolate cake cotton candy caramels. Candy carrot cake carrot cake halvah jelly cheesecake chupa chups chocolate. Sesame snaps chupa chups liquorice pie sesame snaps lollipop gummi bears. Lemon drops macaroon candy gummies macaroon sesame snaps marzipan. 
+This workshop uses a [tabular ecology dataset](https://datacarpentry.org/ecology-workshop/data/index.html) from the [Portal Project Teaching Database](https://figshare.com/articles/Portal_Project_Teaching_Database/1314459) and teaches data cleaning, management, analysis, and visualization. There are no pre-requisites, and the materials assume no prior knowledge about the tools. We use a single dataset throughout the workshop to model the data management and analysis workflow that a researcher would use.
+
+The Ecology workshop can be taught using R or Python as the base language.
 
 ### Lessons in English
 {{< table >}}
@@ -25,7 +40,13 @@ The Ecology lessons are  cupcake chocolate cake cotton candy caramels. Candy car
 
 ## Genomics
 
-The Geonomics lessons are  cake lollipop topping caramels bonbon powder chocolate bar tart. Toffee candy canes muffin candy canes bear claw caramels brownie muffin danish. Cupcake muffin tiramisu lollipop marshmallow.
+The focus of this workshop is on working with genomics data, and data management and analysis for genomics research, including best practices for organization of bioinformatics projects and data, use of command line utilities, use of command line tools to analyze sequence quality and perform variant calling, and connecting to and using cloud computing.
+
+More information about hosting and teaching a Genomics workshop can be found on our [FAQ page](https://datacarpentry.org/genomics-workshop/faq).
+
+Interested in teaching these materials? We have an onboarding video and accompanying slides available to prepare Instructors to teach these lessons. After watching this video, please contact team@carpentries.org so that we can record your status as an onboarded Instructor. Instructors who have completed onboarding will be given priority status for teaching at Centrally-Organised Data Carpentry Genomics workshops.
+
+Please note that workshop materials for working with Genomics data in R in “alpha” development. These lessons are available for review and for informal teaching experiences, but are not yet part of The Carpentries’ official lesson offerings.
 
 ### Lessons
 
@@ -41,7 +62,11 @@ The Geonomics lessons are  cake lollipop topping caramels bonbon powder chocolat
 
 ## Geospatial
 
-The Geospatial lessons are cookie icing toffee croissant. Oat cake shortbread toffee cotton candy lemon drops jelly. Candy canes cotton candy sugar plum cheesecake cotton candy oat cake pudding. Ice cream pie cupcake jelly cookie pastry biscuit cake. Liquorice shortbread cheesecake pudding sweet roll cupcake. Marshmallow tootsie roll fruitcake soufflé jelly beans sugar plum.
+This workshop is co-developed with the National Ecological Observatory Network ([NEON](http://www.neonscience.org/)). It focuses on working with geospatial data - managing and understanding spatial data formats, understanding coordinate reference systems, and working with raster and vector data in R for analysis and visualization.
+
+Join the [geospatial curriculum email list](https://carpentries.topicbox.com/groups/curriculum-geospatial) to get updates and be involved in conversations about this curriculum.
+
+Interested in teaching these materials? We have an [onboarding video](https://www.youtube.com/watch?v=Qtnb_eeHt7E) and accompanying slides available to prepare Instructors to teach these lessons. After watching this video, please contact team@carpentries.org so that we can record your status as an onboarded Instructor. Instructors who have completed onboarding will be given priority status for teaching at Centrally-Organised Data Carpentry Geospatial workshops.
 
 {{< table >}}
 {{< lesson_table curriculum="geospatial" >}}
@@ -49,7 +74,9 @@ The Geospatial lessons are cookie icing toffee croissant. Oat cake shortbread to
 
 ## Image processing
 
-Chocolate lollipop sesame snaps bear claw apple pie apple pie. Lemon drops liquorice liquorice gummi bears carrot cake marshmallow. Liquorice wafer chupa chups fruitcake croissant jelly beans marshmallow. Cake tart chupa chups oat cake fruitcake. Cupcake lemon drops wafer donut chocolate danish marshmallow.
+This workshop uses Python and a variety of example images to teach the foundational concepts of image processing, and the skills needed to programmatically extract information from image data. The current version of the curriculum was developed from material originally created by Dr. Tessa Durham Brooks and Dr. Mark Meysenburg at Doane College, Nebraska, USA, with support from an NSF iUSE grant. Further development of the curriculum was supported by a grant from the Sloan Foundation.
+
+Join the [image processing curriculum email list](https://carpentries.topicbox.com/groups/curriculum-image) and/or the [dc-image-processing channel on The Carpentries Slack workspace](https://carpentries.slack.com/archives/C027H977ZGU) to get updates and be involved in conversations about this curriculum.
 
 {{< table >}}
 {{< lesson_table curriculum="image-processing" >}}
@@ -58,7 +85,11 @@ Chocolate lollipop sesame snaps bear claw apple pie apple pie. Lemon drops liquo
 
 ## Social Science 
 
-Halvah tart wafer bonbon fruitcake macaroon gingerbread macaroon cake. Muffin sweet roll jujubes danish cake gingerbread icing bonbon chocolate cake. Pie gummi bears macaroon marshmallow pastry gingerbread. 
+This workshop uses a [tabular interview dataset](https://datacarpentry.org/socialsci-workshop/data/) from the SAFI Teaching Database and teaches data cleaning, management, analysis and visualization. There are no pre-requisites, and the materials assume no prior knowledge about the tools. We use a single dataset throughout the workshop to model the data management and analysis workflow that a researcher would use.
+
+The Social Sciences workshop can be taught using R as the base language. Interested in teaching these materials? We have an [onboarding video](https://www.youtube.com/watch?v=u4nDomxRVoI) and [accompanying slides](https://docs.google.com/presentation/d/1rR7pLSftBYBnLBmaMWeytfDtcRfwVUWxPYGx30ZJNkc/) available to prepare Instructors to teach these lessons. After watching this video, please contact team@carpentries.org so that we can record your status as an onboarded Instructor. Instructors who have completed onboarding will be given priority status for teaching at Centrally-Organised Data Carpentry Social Sciences workshops.
+
+Please note that workshop materials for working with Social Science data in Python and SQL are under development.
 
 ### Lessons 
 
@@ -74,12 +105,32 @@ Halvah tart wafer bonbon fruitcake macaroon gingerbread macaroon cake. Muffin sw
 
 ## Materials in Early Development 
 
-These materials are in early stages of development, and have not yet been incorporated into the official Data Carpentry lesson offerings. If you are interested in being involved in developing one of these lessons, see the information under each lesson description. If you are interested in developing a different curriculum, using The Carpentries lesson templates and pedagogical model, see our Curriculum Development Handbook for information about how to get started. If you are interested in contributing to the development of Data Carpentry lessons in general, visit the Help Wanted page on the Carpentries website to find a list of issues in need of attention.
+These materials are in early stages of development, and have not yet been incorporated into the official Data Carpentry lesson offerings. If you are interested in being involved in developing one of these lessons, see the information under each lesson description. If you are interested in developing a different curriculum, using The Carpentries lesson templates and pedagogical model, see our [Curriculum Development Handbook](https://cdh.carpentries.org/) for information about how to get started. If you are interested in contributing to the development of Data Carpentry lessons in general, visit the Help Wanted page on the Carpentries website to find a list of issues in need of attention.
 
 ### Economics Curriculum
 
-A Data Carpentry curriculum for Economics is being developed by Dr. Miklos Koren at Central European University. These materials are being piloted locally. Development for these lessons has been supported by a grant from the Sloan Foundation/
+A Data Carpentry curriculum for Economics is being developed by Dr. Miklos Koren at Central European University. These materials are being piloted locally. Development for these lessons has been supported by a grant from the Sloan Foundation.
 
 {{< table >}}
 {{< lesson_table curriculum="economics" >}}
 {{< /table >}}
+
+### Other curricula
+
+If you are interested in developing other lessons, please visit The Carpentries Incubator.
+
+## Semester materials
+
+### Biology Semester-long Course
+The [Biology Semester-long Course](https://datacarpentry.org/semester-biology/) was developed and piloted at the University of Florida in Fall 2015. Course materials include readings, lectures, exercises, and assignments that expand on the material presented at workshops focusing on SQL and R. The course is accessible to:
+
+* [Self-guided Students](https://datacarpentry.org/semester-biology/START-for-self-guided-students)
+* [Instructors](https://datacarpentry.org/semester-biology/docs/)
+
+## Community-contributed materials
+
+### Python for Atmosphere and Ocean Scientists
+
+This lesson in The Carpentries Lab has been peer-reviewed and published in [JOSE](https://jose.theoj.org/papers/10.21105/jose.00037), and is ready to be taught by any certified Carpentries instructor (some experience with the netCDF file format and xarray Python library is useful). It is aimed at learners with some prior experience of Python and the Unix Shell, who want to learn how to work with with raster or “gridded” data in Python. As a community-developed lesson, it is currently only available for self-organised workshops. If you have questions about the lesson, please [contact the Maintainers listed on the lesson README](https://github.com/carpentries-lab/python-aos-lesson/blob/gh-pages/README.md).
+
+* [Python for Atmosphere and Ocean Scientists](https://carpentries-lab.github.io/python-aos-lesson/)
