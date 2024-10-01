@@ -103,34 +103,3 @@ Please note that workshop materials for working with Social Science data in Pyth
 {{< lesson_table curriculum="social-science-alpha" >}}
 {{< /table >}}
 
-## Materials in Early Development 
-
-These materials are in early stages of development, and have not yet been incorporated into the official Data Carpentry lesson offerings. If you are interested in being involved in developing one of these lessons, see the information under each lesson description. If you are interested in developing a different curriculum, using The Carpentries lesson templates and pedagogical model, see our [Curriculum Development Handbook](https://cdh.carpentries.org/) for information about how to get started. If you are interested in contributing to the development of Data Carpentry lessons in general, visit the Help Wanted page on the Carpentries website to find a list of issues in need of attention.
-
-### Economics Curriculum
-
-A Data Carpentry curriculum for Economics is being developed by Dr. Miklos Koren at Central European University. These materials are being piloted locally. Development for these lessons has been supported by a grant from the Sloan Foundation.
-
-{{< table >}}
-{{< lesson_table curriculum="economics" >}}
-{{< /table >}}
-
-### Other curricula
-
-If you are interested in developing other lessons, please visit The Carpentries Incubator.
-
-## Semester materials
-
-### Biology Semester-long Course
-The [Biology Semester-long Course](https://datacarpentry.org/semester-biology/) was developed and piloted at the University of Florida in Fall 2015. Course materials include readings, lectures, exercises, and assignments that expand on the material presented at workshops focusing on SQL and R. The course is accessible to:
-
-* [Self-guided Students](https://datacarpentry.org/semester-biology/START-for-self-guided-students)
-* [Instructors](https://datacarpentry.org/semester-biology/docs/)
-
-## Community-contributed materials
-
-### Python for Atmosphere and Ocean Scientists
-
-This lesson in The Carpentries Lab has been peer-reviewed and published in [JOSE](https://jose.theoj.org/papers/10.21105/jose.00037), and is ready to be taught by any certified Carpentries instructor (some experience with the netCDF file format and xarray Python library is useful). It is aimed at learners with some prior experience of Python and the Unix Shell, who want to learn how to work with with raster or “gridded” data in Python. As a community-developed lesson, it is currently only available for self-organised workshops. If you have questions about the lesson, please [contact the Maintainers listed on the lesson README](https://github.com/carpentries-lab/python-aos-lesson/blob/gh-pages/README.md).
-
-* [Python for Atmosphere and Ocean Scientists](https://carpentries-lab.github.io/python-aos-lesson/)
