@@ -9,3 +9,4 @@ git_repo: https://github.com/datacarpentry/new-website
 
 carpentries_workshops_page: https://carp-new-website.netlify.app/workshops/
 carpentries_website: https://carp-new-website.netlify.app/
+carpentries_handbook: https://docs.carpentries.org 
