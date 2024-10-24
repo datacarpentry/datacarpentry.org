@@ -1,9 +1,6 @@
 ---
 title: Data Carpentry Lessons 
 layout: single
-widgets:
-- newsletter
-- sponsors
 ---
 
 We facilitate and develop lessons for Data Carpentry workshops. These lessons are distributed under the CC-BY license and are free for re-use or adaptation, with attribution. We’ve had people use the lessons in courses, to build new lessons, or use them for self-guided learning.
