@@ -2,6 +2,8 @@
 title: About us
 layout: single
 hideToc: true
+widgets:
+- newsletter
 ---
 
 Data Carpentry develops and teaches workshops on the fundamental data skills needed to conduct research. Our mission is to provide researchers high-quality, domain-specific training covering the full lifecycle of data-driven research. The target audience of Data Carpentry is researchers who want to start working with large volumes of data in their projects.
