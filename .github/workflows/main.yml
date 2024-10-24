@@ -1,4 +1,4 @@
-name: S3/CloudFront deployment beta.datacarpentry.carpentries.org
+name: S3/CloudFront deployment beta.datacarpentry.org
 
 on:
   push:
@@ -9,7 +9,7 @@ on:
 
 jobs:
   build-website:
-    if: github.repository_owner == 'carpentries'
+    if: github.repository_owner == 'datacarpentry'
     runs-on: ubuntu-22.04
     
     defaults:
