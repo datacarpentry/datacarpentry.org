@@ -8,12 +8,13 @@ top:
     weight: 20
     params:
       active: true
-  - name: Software Carpentry
-    url: https://swc-new-website.netlify.app/
-    weight: 30
   - name: Library Carpentry
     url: https://lc-new-website.netlify.app/
+    weight: 30
+  - name: Software Carpentry
+    url: https://swc-new-website.netlify.app/
     weight: 40
+
 # Main menu
 main:
 # Main menu: About
