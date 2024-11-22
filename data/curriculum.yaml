@@ -53,6 +53,15 @@ curricula:
   curriculum: ecology
   language: English
 
+- lessonname: Data Analysis and Visualization in Python for Ecologists	
+  site: https://datacarpentry.org/python-ecology-lesson/
+  repo: https://github.com/datacarpentry/python-ecology-lesson/
+  ref: https://datacarpentry.org/python-ecology-lesson/reference.html
+  inst_notes: https://datacarpentry.org/python-ecology-lesson/instructor-notes.html
+  maintainers: Sarah Pohl, David Palmquist, Carlos Rodrigues
+  curriculum: ecology
+  language: English
+
 - lessonname: Análisis y visualización de datos usando Python (Beta)
   site: https://datacarpentry.org/python-ecology-lesson-es/
   repo: https://github.com/datacarpentry/python-ecology-lesson-es/
