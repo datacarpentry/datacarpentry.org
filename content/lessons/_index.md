@@ -11,7 +11,7 @@ Data Carpentry workshops are domain-specific, so that we are teaching researcher
 
 ## Astronomy
 
-The Foundations of Astronomical Data Science curriculum covers a range of core concepts necessary to efficiently study the ever-growing datasets developed in modern astronomy. This curriculum teaches learners to perform database operations (SQL queries, joins, filtering) and to create publication-quality data visualisations. This curriculum [assumes some prior knowledge of Python](https://datacarpentry.org/astronomy-python/prereqs/index.html) and exposure to the Bash shell, equivalent to that taught in a Software Carpentry workshop.
+The Foundations of Astronomical Data Science curriculum covers a range of core concepts necessary to efficiently study the ever-growing datasets developed in modern astronomy. This curriculum teaches learners to perform database operations (SQL queries, joins, filtering) and to create publication-quality data visualisations. This curriculum [assumes some prior knowledge of Python](https://datacarpentry.github.io/astronomy-python/prereqs) and exposure to the Bash shell, equivalent to that taught in a Software Carpentry workshop.
 
 ### Lessons 
 {{< table >}}
