@@ -5,7 +5,7 @@ curricula:
   repo: https://github.com/datacarpentry/astronomy-python/
   ref: https://datacarpentry.github.io/astronomy-python/reference.html
   inst_notes: https://datacarpentry.github.io/astronomy-python/instructor-notes.html
-  maintainers: Ralf Kotulla
+  maintainers: Ralf Kotulla, Michel M. Nzikou
   curriculum: astronomy
 
 - lessonname: Ecology Workshop Overview
@@ -49,7 +49,7 @@ curricula:
   repo: https://github.com/datacarpentry/R-ecology-lesson/
   ref: https://datacarpentry.github.io/R-ecology-lesson/reference
   inst_notes: https://datacarpentry.github.io/R-ecology-lesson/instructor-notes
-  maintainers: TBA
+  maintainers: Hugo Gruson, Carolyn Koehn, Teofil Nakov, Elizabeth Stregger
   curriculum: ecology
   language: English
 
@@ -58,7 +58,7 @@ curricula:
   repo: https://github.com/datacarpentry/python-ecology-lesson/
   ref: https://datacarpentry.github.io/python-ecology-lesson/reference.html
   inst_notes: https://datacarpentry.github.io/python-ecology-lesson/instructor-notes.html
-  maintainers: Carlos Rodrigues
+  maintainers: Lilian Huang, Jose Niño Muriel, Carlos Rodrigues, Guppy Stott
   curriculum: ecology
   language: English
 
@@ -67,7 +67,7 @@ curricula:
   repo: https://github.com/datacarpentry/python-ecology-lesson-es/
   ref: https://datacarpentry.github.io/python-ecology-lesson-es/reference.html
   inst_notes: https://datacarpentry.github.io/python-ecology-lesson-es/instructor-notes.html
-  maintainers: Irene Ramos Pérez, Vini Salazar, Heladia Salgado
+  maintainers: Julieta Millan, Irene Ramos Pérez, Vini Salazar, Heladia Salgado
   curriculum: ecology-es
   language: English
 
@@ -92,7 +92,7 @@ curricula:
   repo: https://github.com/datacarpentry/shell-genomics/
   ref: https://datacarpentry.github.io/shell-genomics/reference.html
   inst_notes: https://datacarpentry.github.io/shell-genomics/instructor-notes.html
-  maintainers: Alison Meynert
+  maintainers: Alison Meynert, Chandra Sarkar, Katherine Taylor
   curriculum: genomics
 
 - lessonname: Data Wrangling and Processing for Genomics	
@@ -108,7 +108,7 @@ curricula:
   repo: https://github.com/datacarpentry/cloud-genomics/
   ref: https://datacarpentry.github.io/cloud-genomics/reference.html
   inst_notes: https://datacarpentry.github.io/cloud-genomics/instructor-notes.html
-  maintainers: Caroline Kisielinski
+  maintainers: Caroline Kisielinski, Nil Mu
   curriculum: genomics
 
 - lessonname: Data Analysis and Visualization in R *beta*
@@ -140,7 +140,7 @@ curricula:
   repo: https://github.com/datacarpentry/r-intro-geospatial/
   ref: https://datacarpentry.github.io/r-intro-geospatial/reference.html
   inst_notes: https://datacarpentry.github.io/r-intro-geospatial/instructor-notes.html
-  maintainers: Johanna Bayer, Kristi Liu, Alber Sánchez
+  maintainers: Johanna Bayer, Cooper Kimball-Rhines, Kristi Liu, Alber Sánchez
   curriculum: geospatial
 
 - lessonname: Introduction to Geospatial Raster and Vector Data with R	
@@ -156,7 +156,7 @@ curricula:
   repo: https://github.com/datacarpentry/image-processing/
   ref: https://datacarpentry.github.io/image-processing/reference.html
   inst_notes: https://datacarpentry.github.io/image-processing/instructor-notes.html
-  maintainers: Toby Hodges, Kimberly Meechan, Ulf Schiller
+  maintainers: Marco Dalla Vecchia, Toby Hodges, Kimberly Meechan, Ulf Schiller
   curriculum: image-processing
 
 - lessonname: Social Science Workshop Overview
@@ -172,7 +172,7 @@ curricula:
   repo: https://github.com/datacarpentry/spreadsheets-socialsci/
   ref: https://datacarpentry.github.io/spreadsheets-socialsci/reference.html
   inst_notes: https://datacarpentry.github.io/spreadsheets-socialsci/instructor-notes.html
-  maintainers: Jose Niño Muriel
+  maintainers: Jose Niño Muriel, Allie Tatarian
   curriculum: social-science
 
 - lessonname: Data Cleaning with OpenRefine for Social Scientists
