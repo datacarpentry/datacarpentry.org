@@ -2,4 +2,4 @@ module github.com/datacrpentry/new-website
 
 go 1.18
 
-require github.com/carpentries/carpentries-hugo-theme v0.0.0-20250303160616-64ce1588d68d // indirect
+require github.com/carpentries/carpentries-hugo-theme v0.0.0-20250512102937-f2aa19b88671 // indirect
