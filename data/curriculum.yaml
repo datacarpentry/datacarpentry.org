@@ -92,7 +92,7 @@ curricula:
   repo: https://github.com/datacarpentry/shell-genomics/
   ref: https://datacarpentry.github.io/shell-genomics/reference.html
   inst_notes: https://datacarpentry.github.io/shell-genomics/instructor-notes.html
-  maintainers: Alison Meynert, Chandra Sarkar, Katherine Taylor
+  maintainers: Aziz Khan, Alison Meynert, Chandra Sarkar, Katherine Taylor
   curriculum: genomics
 
 - lessonname: Data Wrangling and Processing for Genomics	
