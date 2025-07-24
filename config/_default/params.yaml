@@ -10,3 +10,6 @@ git_repo: https://github.com/datacarpentry/new-website
 carpentries_workshops_page: https://carpentries.org/workshops/
 carpentries_website: https://carpentries.org/
 carpentries_handbook: https://docs.carpentries.org/
+
+# Donate 
+donate_url: https://www.zeffy.com/en-US/donation-form/donate-to-make-a-difference-7497?utm_source=datacarpentry
