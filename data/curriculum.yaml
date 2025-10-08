@@ -111,7 +111,7 @@ curricula:
   maintainers: Caroline Kisielinski, Nil Mu
   curriculum: genomics
 
-- lessonname: Data Analysis and Visualization in R *beta*
+- lessonname: Intro to R and RStudio for Genomics *beta*
   site: https://datacarpentry.github.io/genomics-r-intro/
   repo: https://github.com/datacarpentry/genomics-r-intro/
   ref: https://datacarpentry.github.io/genomics-r-intro/reference.html
