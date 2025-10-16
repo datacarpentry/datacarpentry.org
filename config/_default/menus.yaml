@@ -84,7 +84,12 @@ main:
   name: Social science
   url: "/lessons/#social-science"
   parent: lessons
-
+# Donate 
+- identifier: donate
+  name: Donate
+  url: "https://www.zeffy.com/en-US/donation-form/donate-to-make-a-difference-7497?utm_source=datacarpentry"
+  parent: null
+  weight: 40
 
 footer:
 # Footer menu: Menu 1 (About us)
