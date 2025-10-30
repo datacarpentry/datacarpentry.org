@@ -43,7 +43,7 @@ More information about hosting and teaching a Genomics workshop can be found on 
 
 Interested in teaching these materials? We have an onboarding video and accompanying slides available to prepare Instructors to teach these lessons. After watching this video, please contact team@carpentries.org so that we can record your status as an onboarded Instructor. Instructors who have completed onboarding will be given priority status for teaching at Centrally-Organised Data Carpentry Genomics workshops.
 
-Please note that workshop materials for working with Genomics data in R in “alpha” development. These lessons are available for review and for informal teaching experiences, but are not yet part of The Carpentries’ official lesson offerings.
+Please note that one of the lessons from the Genomics workshop material—"Intro to R and RStudio for Genomics"—is in “beta” development. This lesson is available for review and for informal teaching experiences, but is not yet part of The Carpentries’ official lesson offerings yet.
 
 ### Lessons
 
