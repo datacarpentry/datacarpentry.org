@@ -5,7 +5,7 @@ layout: single
 
 We facilitate and develop lessons for Data Carpentry workshops. These lessons are distributed under the CC-BY license and are free for re-use or adaptation, with attribution. We’ve had people use the lessons in courses, to build new lessons, or use them for self-guided learning.
 
-Data Carpentry workshops are domain-specific, so that we are teaching researchers the skills most relevant to their domain and using examples from their type of work. Therefore we have several types of workshops and curriculum is organised by domain.
+Data Carpentry workshops are domain-specific, so that we are teaching researchers the skills most relevant to their domain and using examples from their type of work. Therefore, we have several types of workshops, and the curriculum is organised by domain.
 
 [Curriculum Advisors](/about-us/curriculum-advisors/) are part of a team that provides the oversight, vision, and leadership for a particular set of lessons. More information about the role of the Curriculum Advisory Committee can be found in the [Carpentries Handbook]({{< param carpentries_handbook >}}).
 
