@@ -13,7 +13,7 @@ curricula:
   repo: https://github.com/datacarpentry/ecology-workshop/
   ref:
   inst_notes: 
-  maintainers: Juan Ugalde
+  maintainers:
   curriculum: ecology
   language: English
 
@@ -58,7 +58,7 @@ curricula:
   repo: https://github.com/datacarpentry/python-ecology-lesson/
   ref: https://datacarpentry.github.io/python-ecology-lesson/reference.html
   inst_notes: https://datacarpentry.github.io/python-ecology-lesson/instructor-notes.html
-  maintainers: Lilian Huang, Jose Niño Muriel, Carlos Rodrigues, Guppy Stott
+  maintainers: Lilian Huang, Jose Niño Muriel, Guppy Stott
   curriculum: ecology
   language: English
 
@@ -92,7 +92,7 @@ curricula:
   repo: https://github.com/datacarpentry/shell-genomics/
   ref: https://datacarpentry.github.io/shell-genomics/reference.html
   inst_notes: https://datacarpentry.github.io/shell-genomics/instructor-notes.html
-  maintainers: Aziz Khan, Alison Meynert, Chandra Sarkar, Katherine Taylor
+  maintainers: Aziz Khan, Alison Meynert, Katherine Taylor
   curriculum: genomics
 
 - lessonname: Data Wrangling and Processing for Genomics	
@@ -132,7 +132,7 @@ curricula:
   repo: https://github.com/datacarpentry/organization-geospatial/
   ref: https://datacarpentry.github.io/organization-geospatial/reference.html
   inst_notes: 
-  maintainers: Marissa Block, Rohit Goswami, Girmaye Misgna
+  maintainers: Rohit Goswami, Girmaye Misgna
   curriculum: geospatial
 
 - lessonname: Introduction to R for Geospatial Data	
