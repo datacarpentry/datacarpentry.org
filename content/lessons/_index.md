@@ -9,15 +9,6 @@ Data Carpentry workshops are domain-specific, so that we are teaching researcher
 
 [Curriculum Advisors](/about-us/curriculum-advisors/) are part of a team that provides the oversight, vision, and leadership for a particular set of lessons. More information about the role of the Curriculum Advisory Committee can be found in the [Carpentries Handbook]({{< param carpentries_handbook >}}).
 
-## Astronomy
-
-The Foundations of Astronomical Data Science curriculum covers a range of core concepts necessary to efficiently study the ever-growing datasets developed in modern astronomy. This curriculum teaches learners to perform database operations (SQL queries, joins, filtering) and to create publication-quality data visualisations. This curriculum [assumes some prior knowledge of Python](https://datacarpentry.github.io/astronomy-python/prereqs) and exposure to the Bash shell, equivalent to that taught in a Software Carpentry workshop.
-
-### Lessons 
-{{< table >}}
-{{< lesson_table curriculum="astronomy" >}}
-{{< /table >}}
-
 
 ## Ecology
 
@@ -57,18 +48,6 @@ Please note that one of the lessons from the Genomics workshop material—"Intro
 {{< lesson_table curriculum="genomics-beta" >}}
 {{< /table >}}
 
-## Geospatial
-
-This workshop is co-developed with the National Ecological Observatory Network ([NEON](http://www.neonscience.org/)). It focuses on working with geospatial data - managing and understanding spatial data formats, understanding coordinate reference systems, and working with raster and vector data in R for analysis and visualization.
-
-Join the [geospatial curriculum email list](https://carpentries.topicbox.com/groups/curriculum-geospatial) to get updates and be involved in conversations about this curriculum.
-
-Interested in teaching these materials? We have an [onboarding video](https://www.youtube.com/watch?v=Qtnb_eeHt7E) and accompanying slides available to prepare Instructors to teach these lessons. After watching this video, please contact team@carpentries.org so that we can record your status as an onboarded Instructor. Instructors who have completed onboarding will be given priority status for teaching at Centrally-Organised Data Carpentry Geospatial workshops.
-
-{{< table >}}
-{{< lesson_table curriculum="geospatial" >}}
-{{< /table >}}
-
 ## Image processing
 
 This workshop uses Python and a variety of example images to teach the foundational concepts of image processing, and the skills needed to programmatically extract information from image data. The current version of the curriculum was developed from material originally created by Dr. Tessa Durham Brooks and Dr. Mark Meysenburg at Doane College, Nebraska, USA, with support from an NSF iUSE grant. Further development of the curriculum was supported by a grant from the Sloan Foundation.
@@ -100,3 +79,31 @@ Please note that workshop materials for working with Social Science data in Pyth
 {{< lesson_table curriculum="social-science-alpha" >}}
 {{< /table >}}
 
+## Retired Curricula
+The curricula below were formerly included in the Data Carpentry lesson program.
+The lessons are no longer maintained and the source repositories are read-only.
+
+### Astronomy
+
+The Foundations of Astronomical Data Science curriculum covers a range of core concepts necessary to efficiently study the ever-growing datasets developed in modern astronomy. 
+This curriculum teaches learners to perform database operations (SQL queries, joins, filtering) and to create publication-quality data visualisations. 
+It [assumes some prior knowledge of Python](https://datacarpentry.github.io/astronomy-python/prereqs) and exposure to the Bash shell, equivalent to that taught in a Software Carpentry workshop.
+
+#### Lessons
+
+{{< table >}}
+{{< lesson_table curriculum="astronomy" >}}
+{{< /table >}}
+
+
+### Geospatial
+
+This workshop was co-developed with the National Ecological Observatory Network ([NEON](http://www.neonscience.org/)). 
+It focuses on working with geospatial data - managing and understanding spatial data formats, understanding coordinate reference systems, and working with raster and vector data in R for analysis and visualization.
+The curriculum is accompanied by an [onboarding video](https://www.youtube.com/watch?v=Qtnb_eeHt7E) to prepare Instructors to teach these lessons.
+
+#### Lessons 
+
+{{< table >}}
+{{< lesson_table curriculum="geospatial" >}}
+{{< /table >}}
