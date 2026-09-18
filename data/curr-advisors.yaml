@@ -2,61 +2,6 @@
 
 people:
 
-##### BEGIN ASTRONOMY #####
-
-- person_name: Azalee Bostroem
-  position: Chair
-  github: abostroem
-  country: US
-  twitter: astro_az
-  curriculum: astronomy
-
-- person_name: Heather Andrews
-  position:  Secretary
-  github: HeatherAn
-  country: NL
-  twitter: 
-  curriculum: astronomy
-
-- person_name: Adam Hughes
-  position:
-  github: tautme
-  country: US
-  twitter: 	coveredway
-  curriculum:
-
-- person_name: Brett Morris
-  position:
-  github: bmorris3
-  country: US
-  twitter: brettmor
-  curriculum: astronomy
-
-- person_name: Ivelina Momcheva
-  position:
-  github: ivastar
-  country: DE
-  twitter:
-  curriculum: astronomy
-
-
-- person_name: Meredith Rawls
-  position:
-  github: mrawls
-  country: US
-  twitter: merrdiff
-  curriculum: astronomy
-
-
-- person_name: Rachel Lee McClure
-  position:
-  github: rlmcclure
-  country:
-  twitter: astrachel
-  curriculum: astronomy
-
-##### END ASTRONOMY #####
-
 ##### BEGIN ECOLOGY #####
 
 - person_name: Mike Trizna
@@ -136,32 +81,6 @@ people:
 
 ##### END GENOMICS #####
 
-##### BEGIN GEOSPATIAL #####
-
-
-- person_name: Stephen Appel
-  position: Chair
-  github: 
-  country: US
-  twitter: 
-  curriculum: geospatial
-  gravatar: appel
-
-- person_name: Justin Fain
-  position: Secretary
-  github: fainjj
-  country: US
-  twitter: 
-  curriculum: geospatial
-
-- person_name: Mike Mahoney
-  position:
-  github: mikemahoney218
-  country: US
-  twitter: 	mikemahoney218
-  curriculum: geospatial
-
-##### END GEOSPATIAL #####
 
 ##### BEGIN IMAGE PROCESSING #####
 

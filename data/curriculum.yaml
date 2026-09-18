@@ -1,6 +1,6 @@
 curricula:
 
-- lessonname: Foundations of Astronomical Data Science
+- lessonname: Foundations of Astronomical Data Science (Retired)
   site: https://datacarpentry.github.io/astronomy-python/
   repo: https://github.com/datacarpentry/astronomy-python/
   ref: https://datacarpentry.github.io/astronomy-python/reference.html
@@ -119,7 +119,7 @@ curricula:
   maintainers: Jason Williams, Naupaka Zimmerman, Yuka Takemon
   curriculum: genomics-beta
 
-- lessonname: Geospatial Workshop Overview
+- lessonname: Geospatial Workshop Overview (Retired)
   site: https://datacarpentry.github.io/geospatial-workshop/
   repo: https://github.com/datacarpentry/geospatial-workshop/
   ref:
@@ -127,7 +127,7 @@ curricula:
   maintainers: 
   curriculum: geospatial
 
-- lessonname: Introduction to Geospatial Concepts	
+- lessonname: Introduction to Geospatial Concepts	(Retired)
   site: https://datacarpentry.github.io/organization-geospatial/
   repo: https://github.com/datacarpentry/organization-geospatial/
   ref: https://datacarpentry.github.io/organization-geospatial/reference.html
@@ -135,7 +135,7 @@ curricula:
   maintainers: Rohit Goswami
   curriculum: geospatial
 
-- lessonname: Introduction to R for Geospatial Data	
+- lessonname: Introduction to R for Geospatial Data	(Retired)
   site: https://datacarpentry.github.io/r-intro-geospatial
   repo: https://github.com/datacarpentry/r-intro-geospatial/
   ref: https://datacarpentry.github.io/r-intro-geospatial/reference.html
@@ -143,7 +143,7 @@ curricula:
   maintainers: Alber Sánchez, Cooper Kimball-Rhines, Johanna Bayer, Kristi Liu
   curriculum: geospatial
 
-- lessonname: Introduction to Geospatial Raster and Vector Data with R	
+- lessonname: Introduction to Geospatial Raster and Vector Data with R (Retired)
   site: https://datacarpentry.github.io/r-raster-vector-geospatial
   repo: https://github.com/datacarpentry/r-raster-vector-geospatial/
   ref: https://datacarpentry.github.io/r-raster-vector-geospatial/reference.html
