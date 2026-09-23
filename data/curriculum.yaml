@@ -22,7 +22,7 @@ curricula:
   repo: https://github.com/datacarpentry/spreadsheet-ecology-lesson/
   ref: https://datacarpentry.github.io/spreadsheet-ecology-lesson/reference.html
   inst_notes: https://datacarpentry.github.io/spreadsheet-ecology-lesson/instructor-notes.html
-  maintainers: Mary Tuttle, Urmi Poddar
+  maintainers: Mary Tuttle, Thomas Cason, Urmi Poddar
   curriculum: ecology
   language: English
 
@@ -92,7 +92,7 @@ curricula:
   repo: https://github.com/datacarpentry/shell-genomics/
   ref: https://datacarpentry.github.io/shell-genomics/reference.html
   inst_notes: https://datacarpentry.github.io/shell-genomics/instructor-notes.html
-  maintainers: Alison Meynert, Aziz Khan
+  maintainers: Alison Meynert, Aziz Khan, Katherine Taylor, Sehrish Kanwa
   curriculum: genomics
 
 - lessonname: Data Wrangling and Processing for Genomics	
